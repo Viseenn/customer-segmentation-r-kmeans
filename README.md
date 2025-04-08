@@ -1,22 +1,41 @@
-# Customer Segmentation using K-Means Clustering in R
+# 🧠 Customer Segmentation using K-Means Clustering in R
 
-This project performs customer segmentation using the K-Means algorithm on a dataset provided by DQLab. Implemented fully in R within a Google Colab Notebook.
+This project performs customer segmentation using the **K-Means algorithm** on a dataset provided by DQLab. The entire workflow was implemented in **R**, executed within a **Google Colab Notebook**, and visualized through an interactive dashboard in **Looker Studio**.
+
+---
 
 ## 📊 Dataset
 
-- Source: [DQLab Customer Segments](https://storage.googleapis.com/dqlab-dataset/customer_segments.txt)
-- Features used: Gender, Age, Profession, Resident Type, etc.
+- **Source**: [DQLab Customer Segments](https://storage.googleapis.com/dqlab-dataset/customer_segments.txt)
 
-## 🔍 Objective
+---
 
-To segment customers into distinct groups based on behavioral and demographic data using unsupervised learning (K-Means clustering).
+## 🎯 Objective
 
-## 📦 Tools & Technologies
+Segment customers into distinct groups based on demographic and behavioral attributes using **unsupervised learning** with K-Means clustering.
 
-- Language: R
-- Clustering: K-Means
-- Environment: Google Colab (with R kernel)
+---
+
+## 🧰 Tools & Technologies
+
+- **Language**: R  
+- **Clustering Algorithm**: K-Means  
+- **Notebook Environment**: Google Colab (R kernel)  
+- **Data Output**: Google Sheets  
+- **Visualization**: Google Looker Studio
+
+---
 
 ## 📈 Output
 
-- Cluster profiling
+- ✅ Data preprocessing  
+- ✅ Optimal K selection  
+- ✅ Final clustering  
+- ✅ Cluster profiling  
+- ✅ Interactive Dashboard
+
+🔗 **Dashboard Link (Public)**:  
+👉 [View the Looker Studio Dashboard](https://lookerstudio.google.com/reporting/0fc2ba14-6a88-44c7-ab08-9511a640c7d5)
+
+---
+
